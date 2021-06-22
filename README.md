@@ -4,7 +4,7 @@
 ## Task
 
 
-* Calling your function get_next_line in a loop will then allow you to read the text
+* Calling your  function get_next_line in a loop will then allow you to read the text
 available on a file descriptor one line at a time until the EOF.
 * Make sure that your function behaves well when it reads from a file and when it
 reads from the standard input.
